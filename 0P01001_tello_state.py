@@ -1,3 +1,5 @@
+# 0P01001 安達 幸輝
+
 import socket
 from time import sleep
 import curses
